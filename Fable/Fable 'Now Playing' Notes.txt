@@ -1,0 +1,12 @@
+Sleep time
+Sharing into app via share sheet
+Volume
+Speed
+Gestures
+Speed up/slow down voice (fast forward) by swiping in the album art to expose a new FX menu. Could be down, or left/right.
+Elapsed time
+Play/Pause
+Fast forward/rewind
+Artwork
+Text to Speech
+https://www.ivona.com 
