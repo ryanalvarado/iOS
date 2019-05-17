@@ -1,0 +1,58 @@
+App Icon
+Every app needs a beautiful and memorable icon that attracts attention in the App Store and stands out on the Home screen. Your icon is the first opportunity to communicate, at a glance, your app’s purpose. It also appears throughout the system, such as in Settings and search results.
+
+iOS Settings App Icon iOS Phone App Icon iOS Mail App Icon iOS Podcasts App Icon iOS Photos App Icon iOS Maps App Icon iOS Clock App Icon
+
+Embrace simplicity. Find a single element that captures the essence of your app and express that element in a simple, unique shape. Add details cautiously. If an icon’s content or shape is overly complex, the details can be hard to discern, especially at smaller sizes.
+
+Provide a single focus point. Design an icon with a single, centered point that immediately captures attention and clearly identifies your app.
+
+Design a recognizable icon. People shouldn’t have to analyze the icon to figure out what it represents. For example, the Mail app icon uses an envelope, which is universally associated with mail. Take time to design a beautiful and engaging abstract icon that artistically represents your app’s purpose.
+
+Keep the background simple and avoid transparency. Make sure your icon is opaque, and don’t clutter the background. Give it a simple background so it doesn’t overpower other app icons nearby. You don’t need to fill the entire icon with content.
+
+Use words only when they’re essential or part of a logo. An app’s name appears below its icon on the Home screen. Don’t include nonessential words that repeat the name or tell people what to do with your app, like "Watch" or "Play." If your design includes any text, emphasize words that relate to the actual content your app offers.
+
+Don’t include photos, screenshots, or interface elements. Photographic details can be very hard to see at small sizes. Screenshots are too complex for an app icon and don’t generally help communicate your app’s purpose. Interface elements in an icon are misleading and confusing.
+
+Don’t use replicas of Apple hardware products. Apple products are copyrighted and can’t be reproduced in your icons or images. In general, avoid displaying replicas of devices, because hardware designs tend to change frequently and can make your icon look dated.
+
+Don’t place your app icon throughout the interface. It can be confusing to see an icon used for different purposes throughout an app. Instead, consider incorporating your icon’s color scheme. See Color.
+
+Test your icon against different wallpapers. You can’t predict which wallpaper people will choose for their Home screen, so don’t just test your app against a light or dark color. See how it looks over different photos. Try it on an actual device with a dynamic background that changes perspective as the device moves.
+
+Keep icon corners square. The system applies a mask that rounds icon corners automatically.
+
+App Icon Sizes
+Every app must supply both small and large app icons. The small icons are used on the Home screen and throughout the system once your app is installed. The large icon is used by the App Store.
+
+Device or context   Icon size
+iPhone 6s Plus, iPhone 6 Plus   180px by 180px
+iPhone 6s, iPhone 6, iPhone SE  120px by 120px
+iPad Pro    167px by 167px
+iPad, iPad mini 152px by 152px
+App Store   1024px by 1024px
+Provide different sized small icons for different devices. Make sure that your app icon looks great on all the devices you support.
+
+Mimic your small app icon with your large app icon. Although the large icon is used differently than the small one, it’s still your app icon. It should generally match the smaller version in appearance, although it can be subtly richer and more detailed since there are no visual effects applied to it.
+
+Spotlight and Settings Icons
+Every app should provide a small icon that iOS can display when the app name matches a term in a Spotlight search. Additionally, apps with settings should provide a small icon to display in the built-in Settings app. Both icons should clearly identify your app—ideally, they should match your app icon. If you don’t provide these icons, iOS might shrink your main app icon for display in these locations.
+
+Device  Spotlight icon size Settings icon size
+iPhone 6s Plus, iPhone 6 Plus   120px by 120px  87px by 87px
+iPhone 6s, iPhone 6, iPhone SE  80px by 80px    58px by 58px
+iPad Pro, iPad, iPad mini   80px by 80px    58px by 58px
+
+Don’t add an any special FX to Settings icon version
+
+
+Keep the background simple and provide a single focus point. Design an icon with a single, centered point that captures attention at a glance. Include a simple background that doesn’t overpower other icons.
+
+
+Keep icon corners square. The system applies a mask that rounds icon corners automatically.
+
+# sticker Icon made
+Provide different sized icons:
+
+https://developer.apple.com/ios/human-interface-guidelines/extensions/messaging/
